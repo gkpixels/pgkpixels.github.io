@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+06:47:11	74168/74168	---MCZ	200	added ('OK')	text/html	date:Sun,%2023%20May%202021%2003:47:10%20GMT	https://sites.google.com/view/gkpixels/home	C:/My%20Web%20Sites/gaks/sites.google.com/view/gkpixels/home.html	(from )
+06:47:11	67/67	---MCZ	200	added ('OK')	text/plain	date:Sun,%2023%20May%202021%2003:47:11%20GMT	https://sites.google.com/robots.txt		(from )
+06:47:12	297036/297036	---M--	200	added ('OK')	image/png	date:Thu,%2003%20Oct%202019%2010:15:00%20GMT	https://ssl.gstatic.com/atari/images/simple-header-blended-small.png	C:/My%20Web%20Sites/gaks/ssl.gstatic.com/atari/images/simple-header-blended-small.png	(from https://sites.google.com/view/gkpixels/home)
+06:47:12	12537/12537	---MC-	200	added ('OK')	application/javascript	date:Sun,%2023%20May%202021%2003:47:12%20GMT	https://apis.google.com/js/client.js?onload=gapiLoaded	C:/My%20Web%20Sites/gaks/apis.google.com/js/clientc932.js	(from https://sites.google.com/view/gkpixels/home)
